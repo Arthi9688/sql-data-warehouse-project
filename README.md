@@ -1,4 +1,4 @@
-# SQL Data Warehouse Project
+# SQL DataWarehouse & DataAnalysis Project
 
 A complete end-to-end data engineering and analytics project built using SQL Server.
 This repository demonstrates raw data ingestion, data modeling, ETL pipelines, and SQL-based analytics following modern industry standards.
